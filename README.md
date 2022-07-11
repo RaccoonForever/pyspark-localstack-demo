@@ -7,7 +7,7 @@ Related to medium post:
 ## Pre-requisites
 You should have the following installed:
 - Docker
-- The requirements from this project
+- The requirements from this project: `pip install -r requirements.txt`
 - A virtual environment [RECOMMENDED]
 
 ## Run tests
